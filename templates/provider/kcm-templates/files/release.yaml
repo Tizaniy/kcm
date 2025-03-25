@@ -21,6 +21,8 @@ spec:
       template: cluster-api-provider-aws-0-2-1
     - name: cluster-api-provider-openstack
       template: cluster-api-provider-openstack-0-2-0
+    - name: cluster-api-provider-metal3
+      template: cluster-api-provider-metal3-0-0-1
     - name: cluster-api-provider-docker
       template: cluster-api-provider-docker-0-2-0
     - name: cluster-api-provider-gcp
